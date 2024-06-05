@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sohag Islam</h1>
 <h3 align="center">Passionate Frontend & MERN Stack Developer | Building Interactive Web Applications</h3>
 
+My goal is to keep improving my skills and stay updated with the latest technologies. I want to work on exciting projects that make a difference and deliver high-quality solutions.
+
+<h3>Develop responsive and dynamic web applications.</h3>
+<h3>Write clean, efficient, and maintainable code.</h3>
+<h3>Build RESTful APIs to connect front-end interfaces with back-end servers.</h3>
+<h3>Work with databases to manage and retrieve data effectively.</h3>
+<h3>Use version control systems like Git to collaborate with other developers.</h3>
+<h3>Stay updated with the latest trends and technologies in web development.</h3>
+
 - 🔭 I’m currently working on [post disaster relief donation](https://diaster-relief-donation-client.vercel.app/)
 
 - 👯 I’m looking to collaborate on [laphub market](https://laphub-client.vercel.app/)
