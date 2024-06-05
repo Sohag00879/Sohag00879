@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sohag Islam</h1>
 <h3 align="center">Passionate Frontend & MERN Stack Developer | Building Interactive Web Applications</h3>
 
-My goal is to keep improving my skills and stay updated with the latest technologies. I want to work on exciting projects that make a difference and deliver high-quality solutions.
+I have been working for 3 years in developing websites. My goal is to keep improving my skills and stay updated with the latest technologies. I want to work on exciting projects that make a difference and deliver high-quality solutions.
 
 <h3>Work Description:</h3>
 <div>
