@@ -1,3 +1,4 @@
+![logo](https://i.ibb.co/LNwXTTG/cover-image.png)
 <h1 align="center">Hi 👋, I'm Sohag Islam</h1>
 <h3 align="center">Passionate Frontend & MERN Stack Developer | Building Interactive Web Applications</h3>
 
