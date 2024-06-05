@@ -4,12 +4,16 @@
 My goal is to keep improving my skills and stay updated with the latest technologies. I want to work on exciting projects that make a difference and deliver high-quality solutions.
 
 <h3>Work Description:</h3>
-<h5>Develop responsive and dynamic web applications.</h3>
+<div>
+  <h5>Develop responsive and dynamic web applications.</h3>
 <h5>Write clean, efficient, and maintainable code.</h3>
 <h5>Build RESTful APIs to connect front-end interfaces with back-end servers.</h3>
 <h5>Work with databases to manage and retrieve data effectively.</h3>
 <h5>Use version control systems like Git to collaborate with other developers.</h3>
 <h5>Stay updated with the latest trends and technologies in web development.</h3>
+</div>
+
+
 
 - 🔭 I’m currently working on [post disaster relief donation](https://diaster-relief-donation-client.vercel.app/)
 
