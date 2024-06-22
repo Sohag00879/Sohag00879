@@ -76,11 +76,11 @@ I have been working for 3 years in developing websites. My goal is to keep impro
   </a> 
 </p>
 
-<h6 align="left">Skill Set:</h3>
+<h3 align="left">Skill Set:</h3>
 <p align="left">
-  <img src="https://progress-bar.dev/90/?title=JavaScript" alt="JavaScript" width="80%" />
-  <img src="https://progress-bar.dev/85/?title=React" alt="React" width="80%" />
-  <img src="https://progress-bar.dev/80/?title=Node.js" alt="Node.js" width="80%" />
-  <img src="https://progress-bar.dev/75/?title=Express" alt="Express" width="80%" />
-  <img src="https://progress-bar.dev/70/?title=MongoDB" alt="MongoDB" width="80%" />
+  <img src="https://progress-bar.dev/90/?title=JavaScript&width=250" alt="JavaScript" />
+  <img src="https://progress-bar.dev/85/?title=React&width=250" alt="React" />
+  <img src="https://progress-bar.dev/80/?title=Node.js&width=250" alt="Node.js" />
+  <img src="https://progress-bar.dev/75/?title=Express&width=250" alt="Express" />
+  <img src="https://progress-bar.dev/70/?title=MongoDB&width=250" alt="MongoDB" />
 </p>
