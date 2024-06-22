@@ -76,7 +76,7 @@ I have been working for 3 years in developing websites. My goal is to keep impro
   </a> 
 </p>
 
-<h3 align="left">Skill Set:</h3>
+<h6 align="left">Skill Set:</h3>
 <p align="left">
   <img src="https://progress-bar.dev/90/?title=JavaScript" alt="JavaScript" width="80%" />
   <img src="https://progress-bar.dev/85/?title=React" alt="React" width="80%" />
