@@ -187,7 +187,7 @@ Chrome Dev Tools | MongoDB Compass | Postman
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohagislam&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohag00879&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -196,10 +196,10 @@ Chrome Dev Tools | MongoDB Compass | Postman
 
 <div align="center">
   <a href="https://github.com/sohagislam/post-disaster-relief-donation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohagislam&repo=post-disaster-relief-donation&theme=radical&hide_border=true" alt="Post Disaster Relief Donation" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohag00879&repo=post-disaster-relief-donation&theme=radical&hide_border=true" alt="Post Disaster Relief Donation" />
   </a>
   <a href="https://github.com/sohagislam/laphub-market">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohagislam&repo=laphub-market&theme=radical&hide_border=true" alt="Laphub Market" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohag00879&repo=laphub-market&theme=radical&hide_border=true" alt="Laphub Market" />
   </a>
 </div>
 
@@ -216,7 +216,7 @@ Chrome Dev Tools | MongoDB Compass | Postman
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sohagislam/sohagislam/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Sohag00879/sohagislam/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
