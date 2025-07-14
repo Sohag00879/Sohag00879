@@ -167,11 +167,11 @@ Chrome Dev Tools | MongoDB Compass | Postman
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohagislam&show_icons=true&theme=radical&hide_border=true" alt="Sohag's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohag00879&show_icons=true&theme=radical&hide_border=true" alt="Sohag's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohagislam&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohag00879&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohagislam&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohag00879&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
