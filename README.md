@@ -195,10 +195,10 @@ Chrome Dev Tools | MongoDB Compass | Postman
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/sohagislam/post-disaster-relief-donation">
+  <a href="https://github.com/Sohag00879/post-disaster-relief-donation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohag00879&repo=post-disaster-relief-donation&theme=radical&hide_border=true" alt="Post Disaster Relief Donation" />
   </a>
-  <a href="https://github.com/sohagislam/laphub-market">
+  <a href="https://github.com/Sohag00879/laphub-market">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohag00879&repo=laphub-market&theme=radical&hide_border=true" alt="Laphub Market" />
   </a>
 </div>
