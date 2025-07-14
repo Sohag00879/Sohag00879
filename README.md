@@ -198,7 +198,7 @@ Chrome Dev Tools | MongoDB Compass | Postman
   <a href="https://github.com/Sohag00879/post-disaster-relief-donation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohag00879&repo=post-disaster-relief-donation&theme=radical&hide_border=true" alt="Post Disaster Relief Donation" />
   </a>
-  <a href="https://github.com/Sohag00879/laphub-market">
+  <a href="https://github.com/Sohag00879/laphub-client">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohag00879&repo=laphub-market&theme=radical&hide_border=true" alt="Laphub Market" />
   </a>
 </div>
@@ -230,6 +230,6 @@ Chrome Dev Tools | MongoDB Compass | Postman
 ---
 
 <div align="center">
-  <p>© 2024 Sohag Islam. All rights reserved.</p>
+  <p>© 2022 Sohag Islam. All rights reserved.</p>
   <p>Made with ❤️ and lots of ☕</p>
 </div>
